@@ -50,4 +50,4 @@ Le fichier regroupe 30 variables qualitatives et quantitatives avec plus de 100 
 
 mathieu.boully@hotmail.com
 
-[Linkedin.](https://www.linkedin.com/in/mathieu-boully-61b910175/)
+[LinkedIn](https://www.linkedin.com/in/mathieu-boully-61b910175)
