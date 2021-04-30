@@ -52,7 +52,7 @@ Mathieu Boully, Étudiant en science des données à l'Université Toulouse Paul
 
 ## Contact et réseaux
 
-Mathieu.boully@hotmail.com
+mathieu.boully@hotmail.com
 
 Consultez [mes autres publications.](https://mathieuboully-datascience.000webhostapp.com/publications/)
 
