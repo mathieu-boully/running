@@ -46,14 +46,8 @@ Le fichier regroupe 30 variables qualitatives et quantitatives avec plus de 100 
 - lubridate
 - tidyverse
 
-## Auteur
-
-Mathieu Boully, Étudiant en science des données à l'Université Toulouse Paul Sabatier :school:
-
-## Contact et réseaux
+## Contact
 
 mathieu.boully@hotmail.com
-
-Consultez [mes autres publications.](https://mathieuboully-datascience.000webhostapp.com/publications/)
 
 [Linkedin.](https://www.linkedin.com/in/mathieu-boully-61b910175/)
