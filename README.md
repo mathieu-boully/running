@@ -48,6 +48,6 @@ Le fichier regroupe 30 variables qualitatives et quantitatives avec plus de 100 
 
 ## Contact
 
-mathieu.boully@univ-tlse3.fr
+mathieu.boully@hotmail.com
 
 [LinkedIn](https://www.linkedin.com/in/mathieuboully)
